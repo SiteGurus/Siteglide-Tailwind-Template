@@ -1,0 +1,16 @@
+{
+  "name": "flowbite-demo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind-w-m": "npx tailwindcss -c ./marketplace_builder/views/partials/tailwind/tailwind.config.js -i ./tailwind_src/tailwind.css -o ./marketplace_builder/assets/css/tailwind.min.css --watch --minify"
+  },
+  "keywords": [],
+  "author": "SiteGurus",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.3",
+    "flowbite": "^1.4.7",
+    "tailwindcss": "^3.1.5"
+  }
+}
