@@ -24,7 +24,7 @@ In terminal, change directory to your project folder `cd <my_folder_path>` and u
 Each time you start work:
 
 1. Pull the latest files from the site using siteglide-cli. It's important to have the latest files, because Tailwind only adds classes that you're actually using, but it can only see which files you're using if the files are available locally.
-2. In terminal, run the command: `npm run watch_tw`. This will watch your files for any changes and keep the tailwind CSS up to date.
+2. In terminal, run the command: `npm run tailwind`. This will watch your files for any changes and keep the tailwind CSS up to date.
 3. Use Siteglide-CLI sync or deploy to push the latest Tailwind to the site.
 
 ### Troubleshooting
