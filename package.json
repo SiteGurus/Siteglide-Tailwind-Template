@@ -1,7 +1,7 @@
 {
-  "name": "flowbite-demo-site",
+  "name": "SiteBuilder Tailwind Template for Siteglide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A template for getting started using the CLI with Siteglide, SiteBuilder Module, Tailwind and the Flowbite Library.",
   "main": "tailwind.config.js",
   "scripts": {
     "tailwind": "npx tailwindcss -c ./marketplace_builder/assets/modules/module_86/src/tailwind.config.js -i ./marketplace_builder/assets/modules/module_86/src/tailwind.css -o ./marketplace_builder/assets/css/tailwind.min.css --watch --minify"
