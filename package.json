@@ -4,7 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwindcss -c ./marketplace_builder/views/partials/tailwind/tailwind.config.js -i ./tailwind_src/tailwind.css -o ./marketplace_builder/assets/css/tailwind.min.css --watch --minify"
+    "tailwind": "npx tailwindcss -c ./marketplace_builder/assets/modules/module_86/src/tailwind.config.js -i ./marketplace_builder/assets/modules/module_86/src/tailwind.css -o ./marketplace_builder/assets/css/tailwind.min.css --watch --minify"
   },
   "keywords": [],
   "author": "SiteGurus",
