@@ -1,9 +1,3 @@
----
-layout: modules/sitegurus_documentation/templates/2
-converter: markdown
-metadata:
-  name: Using the Tailwind CLI with Siteglide
----
 ## Before You Start
 
 * Check [Choosing a Build Method](https://sitegurus.io/documentation/modules/sitebuilder/libraries_and_frameworks/libraries_using_tailwind_css_choosing_a_build_method) first to choose which option suits you best.
