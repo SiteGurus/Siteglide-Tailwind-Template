@@ -135,7 +135,7 @@ npm i -D tailwindcss@3.1.5
 npm i -D flowbite@1.4.7
 ```
 ```bash
-npm i -D @tailwindcss/typography@0.5.3
+npm i -D flowbite-typography@1.0.2
 ```
 
 [Adding Dependencies to a package.json file](https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file#adding-dependencies-to-a-packagejson-file "Adding Dependencies to a package.json file").
